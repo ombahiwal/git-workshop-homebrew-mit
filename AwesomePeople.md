@@ -11,6 +11,7 @@ ankit
 Shaunak Bhagurkar
 Shaunak Bhaiyya
 pavan Bagade Mitra Mandal
+ nethizo-730
 .............Arpit NY - 40.6971494,-74.259867................ #######apala gaav####
 aman wagh
 no one knows who is Pranav Deshpande. lol
@@ -27,3 +28,6 @@ abhaya lahoti
 
 
 pranav ki attendance kam hai! HOD ne bulaya hai usko! lol..
+=======
+nethizo x Dimapur - 25.8831212,93.7775043,12949
+nethizo-730
