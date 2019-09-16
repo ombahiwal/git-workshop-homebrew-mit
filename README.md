@@ -1,2 +1,3 @@
 # homebrew-mit
-MLH Workshop repo
+MLH Wrkshop repo
+
