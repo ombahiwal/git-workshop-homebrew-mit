@@ -13,4 +13,4 @@ pavan Bagade Mitra Mandal
 aman wagh
 19.8556732,75.2521548,22190
 
-ashish j aurangabad - 20.0007514,75.1539899,9
+perfect aurangabadkar ashu joshi
