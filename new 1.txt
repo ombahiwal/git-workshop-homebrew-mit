@@ -1,0 +1,18 @@
+#include<stdio.h>
+#include<conio.h>
+void game()
+void main()
+{
+
+game ();
+getch()
+}
+
+
+void game()
+{
+
+			printf("\n WELCOME TO GAME "):
+			
+			//	BUILD YOUR GAME HERE 
+			}
