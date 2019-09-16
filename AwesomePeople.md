@@ -3,5 +3,5 @@ GAURAV BOSSS
 mandar mandar jalna 19.8394727,75.8712808
 RAVI VISHWAKARMA Aurangabad 19.870244,75.2351603,12 \ newline
 Arpit 19.8700826,75.2351608
-PranavSarwade Aurangabad 19.870244,75.2351603,12 \newlin
-Akash Awhale 19.8700826,75.2351607
+PranavSarwade Aurangabad 19.870244,75.2351603,12 \newline
+prp 19.8755
