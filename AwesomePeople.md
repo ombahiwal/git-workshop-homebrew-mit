@@ -12,4 +12,5 @@ Shaunak Bhaiyya
 pavan Bagade Mitra Mandal
 aman wagh
 19.8556732,75.2521548,22190
-gaurav 20.5361013,76.1505418,14
+
+LUCIFER0x7  , MY GPS LOCATION :- 19.8822979,75.3238076,17z
