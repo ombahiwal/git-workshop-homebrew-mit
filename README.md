@@ -1,3 +1,4 @@
 # homebrew-mit
 MLH Wrkshop repo
-XD !
+
+lucifer0x7 , thanks for making me a contributor
