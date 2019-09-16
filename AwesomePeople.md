@@ -24,7 +24,7 @@ mandar @jalna 19.8394727,75.8712808
 mahesh 
 Kunal Pusdekar[HOMETOWN]-19.96608,79.2053288
 abhaya lahoti
-prp 19.2866356,75.889854364
 
-you are a noob!!!!!!!!!
+
 pranav ki attendance kam hai! HOD ne bulaya hai usko! lol..
+varun puley-19.8826656,75.3099703,590m/data=!3m1!1e3
