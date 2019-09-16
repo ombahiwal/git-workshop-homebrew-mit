@@ -1,3 +1,4 @@
+nethizo-730
 njoing github!!!:)
 Rushikesh kale  
 HomeBrew is Awesome
@@ -28,6 +29,9 @@ abhaya lahoti
 
 
 pranav ki attendance kam hai! HOD ne bulaya hai usko! lol..
-=======
+
 nethizo x Dimapur - 25.8831212,93.7775043,12949
 nethizo-730
+
+aarya aurangabad 19.8700826,75.235161 \newline
+ master

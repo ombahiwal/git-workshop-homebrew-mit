@@ -15,4 +15,4 @@ void game()
 			printf("\n WELCOME TO GAME "):
 			
 			//	BUILD YOUR GAME HERE 
-			}
+			} /* what game should we make */
