@@ -24,6 +24,5 @@ mandar @jalna 19.8394727,75.8712808
 mahesh 
 Kunal Pusdekar[HOMETOWN]-19.96608,79.2053288
 abhaya lahoti
-
-
-pranav ki attendance kam hai! HOD ne bulaya hai usko! lol..
+Shubham Dongarjal Aurangabad,19.8460013,75.3587787
+Nia k Pune 8.5040215,73.6888335
