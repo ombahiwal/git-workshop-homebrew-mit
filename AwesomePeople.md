@@ -16,3 +16,4 @@ aman wagh
 Ashish J Aurangabad
 Ashish Joshi Dubai
 i m aurangabadkar
+ashish j aurangabad - 20.0007514,75.1539899,9
