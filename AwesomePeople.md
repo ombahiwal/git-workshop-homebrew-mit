@@ -1,7 +1,14 @@
-aarya aurangabad 19.8700826,75.235161 \newline
-GAURAV boss BULDHANA 20.5361013,76.1505418,14\newline  
-mandar mandar jalna 19.8394727,75.8712808
-RAVI VISHWAKARMA Aurangabad 19.870244,75.2351603,12 \ newline
-Arpit 19.8700826,75.2351608
-PranavSarwade Aurangabad 19.870244,75.2351603,12 \newline
-Akash Awhale 19.8700826,75.2351607
+njoing github!!!:)
+Rushikesh kale  
+HomeBrew is Awesome
+Pranav
+darshana
+kaustubh tulaskar
+LUCIFER0x7, We all are awesome developer's 
+aarya
+ankit 
+Shaunak Bhagurkar
+Shaunak Bhaiyya
+Abhishek narkhede
+vatsal deshmukh bhopal-23.1996633,77.2658034,11
+vatsal bhopal\new line
