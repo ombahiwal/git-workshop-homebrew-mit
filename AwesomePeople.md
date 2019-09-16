@@ -12,3 +12,4 @@ Shaunak Bhaiyya
 pavan Bagade Mitra Mandal
 aman wagh
 19.8556732,75.2521548,22190
+Shubham Dongarjal Aurangabad,19.8460013,75.3587787
